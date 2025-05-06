@@ -12,8 +12,10 @@ Unicafe: A simple feedback app for evaluating food service with statistics.
 
 Anecdotes: Displays random quotes with voting functionality. 
 ## 📁 Structure
+```md
 part1 
    ├──1.1-1.5 Course Information
    ├──1.6-1.11 unicafe     
    ├──1.12-1.14 anecdotes  
 
+```
